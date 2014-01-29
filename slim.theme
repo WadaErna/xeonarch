@@ -1,0 +1,31 @@
+# Xeonarch 0.1 SLiM Theme
+# Wada Erna
+#
+# Inspired by Xeon >> Ubaldo Blkdr
+# Ok.. Ok.. It's more like a copy 
+
+# Messages (ie: shutdown)
+msg_color               #151515
+msg_font                Droid Sans:size=11
+msg_x                   10%
+msg_y                   5%
+msg_shadow_color	#CCCCCC
+msg_shadow_xoffset	1
+msg_shadow_yoffset	1
+
+# valid values: stretch, tile
+background_style        center
+background_color        #A1A1A1
+
+# Input controls
+input_panel_x           50%
+input_panel_y           50%
+input_name_x            165
+input_name_y            172
+input_pass_x            165
+input_pass_y            204
+input_font              Droid Sans:size=9
+input_color		#151515
+input_shadow_xoffset 	1
+input_shadow_yoffset 	1
+input_shadow_color   	#CCCCCC
